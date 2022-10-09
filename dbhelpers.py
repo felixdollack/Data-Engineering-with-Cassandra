@@ -1,3 +1,4 @@
+import cassandra
 from cassandra.cluster import Cluster
 
 
